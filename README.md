@@ -2,7 +2,15 @@
 
 A new Flutter project.
 
-# features
-MVC
-SQFlite database
-Flutter 
+# Summery 
+
+This is basically food recipe app ,create in flutter and dart with additional features.
+
+
+# Features
+
+MVC. 
+
+SQFlite Database.
+
+Flutter. 
